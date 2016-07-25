@@ -1,2 +1,3 @@
 # hello-world
 Ideas &amp; Resources
+Just another ludite trying something new...
